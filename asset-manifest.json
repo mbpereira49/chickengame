@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chickengame/static/css/main.31b1cc15.css",
+    "main.js": "/chickengame/static/js/main.fef2f0b6.js",
+    "static/js/787.0d60406e.chunk.js": "/chickengame/static/js/787.0d60406e.chunk.js",
+    "index.html": "/chickengame/index.html",
+    "main.31b1cc15.css.map": "/chickengame/static/css/main.31b1cc15.css.map",
+    "main.fef2f0b6.js.map": "/chickengame/static/js/main.fef2f0b6.js.map",
+    "787.0d60406e.chunk.js.map": "/chickengame/static/js/787.0d60406e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31b1cc15.css",
+    "static/js/main.fef2f0b6.js"
+  ]
+}
