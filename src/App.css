@@ -1,0 +1,60 @@
+.app {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-content: center;
+}
+
+@media (max-width: 768px) {
+  .app {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+  }
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  height: 100%;
+  max-width: 400px;
+  margin: auto;
+}
+
+@media (max-width: 768px) {
+  .tile {
+    height: auto;
+  }
+}
+
+.tile-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.tile-password input {
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.tile-description {
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .tile-description {
+    font-size: 16px;
+  }
+}
