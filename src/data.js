@@ -51,7 +51,7 @@ const places2 = [
     {
       id: 'sheets',
       Bar: '3 sheets',
-      Challenge: 'Convert your rupees to at least 1 dollar'
+      Challenge: 'buy something with $1'
     },
     {
       id: 'peculiar',
@@ -72,7 +72,7 @@ const places2 = [
       id: 'treehouse',
       Bar: 'Greenwich Treehouse',
       Challenge: 'Convince a group of people that you’re all british',
-      prompt: 'Fill in the missing word: image',
+      prompt: 'Fill in the missing word: <a href=https://drive.google.com/file/d/1DG7lfl5UYFPzQxwil1iqeWEW-YgrVaKh/view?usp=share_link>image</a> (all lowercase)',
       password: 'yoda',
       unlocks: ['hatch', 'villagetavern', 'halfpint', 'sheets']
     },
@@ -85,7 +85,7 @@ const places2 = [
       id: 'wagon',
       Bar: 'Off the wagon',
       Challenge: 'Go up to someone at the bar and say IM FUTURE YOU YOU NEED to learn about the 9 waYS TO FUCK UP YOUR OATMEAL and hand them that article',
-      prompt: 'There is a map on the second story of this bar. If you were to walk from Myrtle-Wickoff Aves. to Woodside 61st, you would pass through 3 cemeteries, but only one is depicted on the map. Which one is it?',
+      prompt: 'There is a map on the second story of this bar. If you were to walk from Myrtle-Wickoff Aves. to Woodside 61st, you would pass through 3 cemeteries, but only one is depicted on the map. Which one is it? (all lower case, omit the word cemetery)',
       password: 'mt zion',
       unlocks: ['peculiar', 'trionas', 'bandits', 'blind']
     },

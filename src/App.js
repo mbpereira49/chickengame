@@ -89,7 +89,7 @@ function App() {
   };
   
 
-  return <div className="tilesContainer">{renderPlaces()}</div>;
+  return <div className="tilesContainer"><h1>CHICKEN GAME Q2</h1>{renderPlaces()}</div>;
 }
 
 export default App;
