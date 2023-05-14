@@ -49,7 +49,7 @@ function App() {
   const riddleDiv = (place) => {
     return ('prompt' in place) && (
       <div className="passwordInput">
-        <p><b>Question: </b>{place.prompt}</p>
+        <p v-html="prompt"><b>Question: </b>{place.prompt}</p>
         <label htmlFor={`passwordInput-${place.id}`}>Answer: </label>
         <input
           type="password"
