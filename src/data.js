@@ -72,7 +72,7 @@ const places2 = [
       id: 'treehouse',
       Bar: 'Greenwich Treehouse',
       Challenge: 'Convince a group of people that you’re all british',
-      prompt: 'Fill in the missing word: <a href=https://drive.google.com/file/d/1DG7lfl5UYFPzQxwil1iqeWEW-YgrVaKh/view?usp=share_link>image</a> (all lowercase)',
+      prompt: 'Fill in the missing word: <a href="https://drive.google.com/file/d/1DG7lfl5UYFPzQxwil1iqeWEW-YgrVaKh/view?usp=share_link">image</a> (all lowercase)',
       password: 'yoda',
       unlocks: ['hatch', 'villagetavern', 'halfpint', 'sheets']
     },
