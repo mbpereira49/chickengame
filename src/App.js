@@ -74,7 +74,7 @@ function App() {
       tiles.push(
         <div className="tile" key={place.id}>
           <div className="tileTitle" onClick={() => setShowTile([...showTile, place.id])}>
-            {place.Bar}
+            <b>{place.Bar}</b>
           </div>
           {isShown && (
             <div className="tileDescription">

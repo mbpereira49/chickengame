@@ -7,6 +7,10 @@
   align-content: center;
 }
 
+h1 {
+  margin: auto;
+}
+
 @media (max-width: 768px) {
   .app {
     grid-template-columns: repeat(2, 1fr);
@@ -24,7 +28,7 @@
   border-radius: 10px;
   text-align: center;
   height: 100%;
-  max-width: 400px;
+  max-width: 300px;
   margin: auto;
 }
 
