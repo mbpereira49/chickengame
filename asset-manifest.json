@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chickengame/static/css/main.31b1cc15.css",
-    "main.js": "/chickengame/static/js/main.738726df.js",
+    "main.css": "/chickengame/static/css/main.da648f54.css",
+    "main.js": "/chickengame/static/js/main.4c476a7e.js",
     "static/js/787.0d60406e.chunk.js": "/chickengame/static/js/787.0d60406e.chunk.js",
     "index.html": "/chickengame/index.html",
-    "main.31b1cc15.css.map": "/chickengame/static/css/main.31b1cc15.css.map",
-    "main.738726df.js.map": "/chickengame/static/js/main.738726df.js.map",
+    "main.da648f54.css.map": "/chickengame/static/css/main.da648f54.css.map",
+    "main.4c476a7e.js.map": "/chickengame/static/js/main.4c476a7e.js.map",
     "787.0d60406e.chunk.js.map": "/chickengame/static/js/787.0d60406e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31b1cc15.css",
-    "static/js/main.738726df.js"
+    "static/css/main.da648f54.css",
+    "static/js/main.4c476a7e.js"
   ]
 }
